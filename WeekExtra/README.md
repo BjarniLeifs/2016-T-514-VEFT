@@ -9,3 +9,10 @@ By know we should have some knowledge on how to build simple API with NodeJS and
 
 Assuming you already have Nodejs and Express installed, we will only need to install [PostgreSQL](https://www.postgresql.org), go to the official site and follow their instruction on how to setup. 
 
+If your'e on Mac you could check out [Postgres.app](http://postgresapp.com).
+
+
+## 
+
+
+With your Postgres server up and running on port 5432, making a database connection is easy with the pg library:
