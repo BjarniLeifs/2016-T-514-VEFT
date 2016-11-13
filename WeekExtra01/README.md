@@ -7,7 +7,7 @@ The setup of this series is as follows:
 
 
 1. Setting up project
-2. 
+2. Setting up package.json
 3. 
 4. 
 5. 
