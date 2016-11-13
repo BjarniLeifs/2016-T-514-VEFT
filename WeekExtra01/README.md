@@ -20,6 +20,6 @@ For this we need to have NodeJS installed, at this point you should have NodeJS 
 	npm install -g express-generator-api 
 
 
-As with all frameworks it is possible to use PostgreSQL with NodeJs. When looking at the project that is developed we need to ask our self what we need. Often we need [RDBMS](https://en.wikipedia.org/wiki/Relational_database) therefore it is nice to know how to use PostgreSQL with Nodejs. If you have not PostgreSQL installed already then go to [Offical PostgreSQL](https://www.postgresql.org) and follow the instruction on how to setup Postgres. On other note, if you are on Mac you could look at [Postgres.app](http://postgresapp.com). 
+As with all frameworks it is possible to use PostgreSQL with NodeJs. When looking at the project that is developed we need to ask our self what we need. Often we need [RDBMS](https://en.wikipedia.org/wiki/Relational_database) therefore it is nice to know how to use PostgreSQL with Nodejs. If you have not PostgreSQL installed already then go to [Offical PostgreSQL Website](https://www.postgresql.org) and follow the instruction on how to setup Postgres. On other note, if you are on Mac you could look at [Postgres.app](http://postgresapp.com). 
 
 
