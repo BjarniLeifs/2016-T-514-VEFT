@@ -1,7 +1,7 @@
 # Extra Material for NodeJs, Postgres, JWT and Nodemailer
 >Before we begin I want it to be noted that I work on OSX.
 
-This series of extra material we will look into how to setup nodejs using express with Postgres, Json web token and nodemailer. We will look into how to implament our own authentication using JWT and how to use them on our routes. We will also look into how we can send e-mail to user, e.g. the user wants to reset password. . How to use package.json scripts and perhaps more. 
+This series of extra material we will look into how to setup nodejs using express with Postgres, Json web token and nodemailer. We will look into how to implament our own authentication using JWT and how to use them on our routes. We will also look into how we can send e-mail to user, e.g. the user wants to reset password. Setup simple test and see how to use package.json scripts. 
 
 
 The setup of this series is as follows:
